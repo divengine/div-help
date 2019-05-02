@@ -1,0 +1,34 @@
+{
+  "name": "divengine/div-help",
+  "description": "Div PHP Helper",
+  "keywords": [
+    "php helpers",
+    "php utilities"
+  ],
+  "homepage": "http://divengine.com",
+  "version": "0.1",
+  "license": [
+    "GPL-3.0-or-later"
+  ],
+  "authors": [
+    {
+      "name": "Rafa Rodriguez",
+      "email": "rafageist@hotmail.com",
+      "homepage": "https://rafageist.github.io",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": ">=5.4.0"
+  },
+  "autoload": {
+    "files": [
+      "divHelp.php"
+    ]
+  },
+  "autoload-dev": {
+    "files": [
+      "divHelp.php"
+    ]
+  }
+}
